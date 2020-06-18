@@ -10,7 +10,7 @@
 }
 
 .div_p_header{
-  background-color: saddlebrown;
+  background-color: rgb(10, 154, 190);
   
 }
 .img_header{
@@ -46,7 +46,9 @@ h4{
   position: relative;
   margin-top:70px;
 }
-
+footer{
+  background-color: #6C757D;
+}
 
 @media only screen and (max-width: 768px) {
   .navbar {
